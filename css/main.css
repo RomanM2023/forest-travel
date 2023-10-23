@@ -72,8 +72,6 @@ html {
 
 }
 
-/* header -  шапка*/
-
 .header {
 
     position: relative;
@@ -110,6 +108,12 @@ html {
     
     font-size: 22px;
     color: #fff;
+
+}
+
+.header-nav-button {
+
+    display: none;
 
 }
 
@@ -157,9 +161,9 @@ html {
     color: #fff;
     font-size: 60px;
     margin-bottom: 20px;
+    line-height: 1;
     
 }
-
 
 .header-content p {
 
@@ -167,7 +171,6 @@ html {
     font-size: 24px;
    
 }
-
 
 .header-scrol {
 
@@ -1008,4 +1011,15 @@ html {
     overflow: hidden;
 
 }
+
+
+
+
+
+
+
+
+
+
+
 
